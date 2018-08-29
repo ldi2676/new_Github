@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hellow, world!\n"); //æ»≥Á«œººø‰!
+	printf("Hellow, world!\n"); //Hello World!
 
 	return 0;
 }
